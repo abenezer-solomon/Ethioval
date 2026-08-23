@@ -1,4 +1,4 @@
-# 🏠 EthioVal: Addis Ababa Real Estate Valuation Predictor
+# 🏠 EthioVal: Addis Ababa residential property price estimator 
 
 EthioVal is an end-to-end machine learning web application designed to estimate residential property prices across Addis Ababa, Ethiopia.
 
