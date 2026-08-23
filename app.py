@@ -4,7 +4,7 @@ import joblib
 
 st.set_page_config(page_title="EthioVal - Real Estate Valuation", page_icon="🏠", layout="centered")
 
-st.title("🏠 EthioVal: Addis Ababa Real Estate Predictor")
+st.title("🏠 EthioVal: Addis Ababa Residential Property Price Estimator.")
 st.write("Enter property details below to estimate market value in ETB.")
 
 @st.cache_resource
